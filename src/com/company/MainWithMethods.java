@@ -303,6 +303,7 @@ public class MainWithMethods {
             winPlayer = getWinner(countCompShips, countUserShips);
         }
 
+
         clearScreen();
 
         printlnMessage("поле компьютера");
